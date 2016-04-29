@@ -46,7 +46,7 @@ import butterknife.OnClick;
  * interface DialogInterface.OnDismissListener：当对话框调用dismiss()方法的时候触发。
  * interface DialogInterface.OnShowListener：当对话框调用show()方法的时候触发。
  * interface DialogInterface.OnMultiChoiceListener：当对话框使用多选列表，并且选中的时候触发。
- * 
+ *
  * dialog.dismiss();    取消对话框
  * dialog.cancel();     取消对话框，会触发OnCancelListener，内部会调用dialog.dismiss();
  *
