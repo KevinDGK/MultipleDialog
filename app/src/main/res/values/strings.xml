@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultipleDialog</string>
+    <string name="dialog_1">普通提示对话框</string>
+    <string name="dialog_2">确认取消对话框</string>
+    <string name="dialog_3">列表对话框</string>
+    <string name="dialog_4">列表单选对话框</string>
+    <string name="dialog_5">列表多选对话框</string>
+    <string name="dialog_6">自定义对话框-登陆界面</string>
+    <string name="dialog_7">进度条对话框</string>
+    <string name="dialog_8">日期选择对话框</string>
+    <string name="dialog_9">时间选择对话框</string>
+    <string name="dialog_10">自定义对话框</string>
+    <string name="dialog_11">屏幕适配-大屏幕嵌入显示,小屏幕对话框显示</string>
+    <string name="dialog">对话框集合</string>
+    <string name="dialogfragment_content">简介：使用DialogFragment来管理对话框，当旋转屏幕和按下后退键时可以更好的管理其声明周期，它和Fragment有着基本一致的声明周期。且DialogFragment也允许开发者把Dialog作为内嵌的组件进行重用，类似Fragment。</string>
+</resources>
