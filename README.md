@@ -23,6 +23,7 @@ DialogFragment：google官方推荐使用DialogFragment创建对话框
 - 列表多选对话框  
 ![](http://i.imgur.com/3evyxSn.jpg)
 - 自定义对话框  
+这个没啥说的，根据需求，自定义view放到dilog中，本项目会持续更新遇到的各种自定义对话框~
 ![](http://i.imgur.com/7hXiwil.jpg)
 - 进度条对话框  
 ![](http://i.imgur.com/eeS7Hbr.jpg)
