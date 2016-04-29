@@ -1,10 +1,10 @@
 # MultipleDialog
 本项目集成了各种各样的对话框  
 目前已经有11种对话框，包含了  
-AlertDialog  
-ProgressDialog  
-DatePickerDialog  
-TimePickerDialog  
+AlertDialog  	普通对话框  
+ProgressDialog  进度对话框  
+DatePickerDialog  日期选择对话框  
+TimePickerDialog  时间选择对话框  
 DialogFragment：google官方推荐使用DialogFragment创建对话框。
 # 页面显示
 ![](http://i.imgur.com/1VQhDCq.jpg)  
@@ -34,7 +34,7 @@ DialogFragment在android 3.0时被引入。是一种特殊的Fragment，用于�
 在DialogFragment产生之前，我们创建对话框：一般采用AlertDialog和Dialog。注：官方不推荐直接使用Dialog创建对话框。  
 2、 好处与用法
 使用DialogFragment来管理对话框，当旋转屏幕和按下后退键时可以更好的管理其声明周期，它和Fragment有着基本一致的声明周期。且DialogFragment也允许开发者把Dialog作为内嵌的组件进行重用，类似Fragment（可以在大屏幕和小屏幕显示出不同的效果）。  
-使用DialogFragment至少需要实现onCreateView或者onCreateDIalog方法。onCreateView即使用定义的xml布局文件展示Dialog。onCreateDialog即利用AlertDialog或者Dialog创建出Dialog。
+使用DialogFragment至少需要实现onCreateView或者onCreateDIalog方法。onCreateView即使用定义的xml布局文件展示Dialog。onCreateDialog即利用AlertDialog或者Dialog创建出Dialog。  
 ![](http://i.imgur.com/0rAlTHo.jpg)  
 ![](http://i.imgur.com/5kzvhQp.jpg)  
 
