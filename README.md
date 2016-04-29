@@ -5,7 +5,9 @@ AlertDialog  	普通对话框
 ProgressDialog  进度对话框  
 DatePickerDialog  日期选择对话框  
 TimePickerDialog  时间选择对话框  
-DialogFragment：google官方推荐使用DialogFragment创建对话框。
+DialogFragment：google官方推荐使用DialogFragment创建对话框  
+自定义对话框
+本项目会持续更新~~~
 # 页面显示
 ![](http://i.imgur.com/1VQhDCq.jpg)  
 ![](http://i.imgur.com/vFrtqVi.jpg)
