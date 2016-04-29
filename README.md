@@ -25,8 +25,10 @@ DialogFragment：google官方推荐使用DialogFragment创建对话框。
 - 进度条对话框  
 ![](http://i.imgur.com/eeS7Hbr.jpg)
 - 日期选择对话框  
+![](http://i.imgur.com/wK8WOCX.jpg)  
 ![](http://i.imgur.com/wbsxkKq.jpg)
 - 时间选择对话框  
+![](http://i.imgur.com/UIOzYfK.jpg)  
 ![](http://i.imgur.com/yndGt0O.jpg)  
 # DialogFragment  
 1、 概述
